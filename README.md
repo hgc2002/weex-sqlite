@@ -1,2 +1,2 @@
 # weex-sqlite
-SQlitecomponent for Weex mobile apps, Android and iOS
+SQlite component for Weex mobile apps, Android and iOS
